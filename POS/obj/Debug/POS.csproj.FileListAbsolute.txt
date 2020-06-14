@@ -1,0 +1,38 @@
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\poslogo.JPG
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.exe.config
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.exe.manifest
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.application
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.exe
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\POS.pdb
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.loginForm.resources
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.exe.manifest
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.application
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.exe
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.pdb
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\Temp.txt
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\FileHelpers.dll
+C:\Users\TYB\Documents\Visual Studio 2015\Projects\POS\POS\bin\Debug\FileHelpers.xml
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.Form1.resources
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.loginForm.resources
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.Properties.Resources.resources
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.exe
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.pdb
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\poslogo.JPG
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\Temp.txt
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\POS.exe.config
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\POS.exe.manifest
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\POS.application
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\POS.exe
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\POS.pdb
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\FileHelpers.dll
+I:\Personal\E\Work\Projects\POS\POS\bin\Debug\FileHelpers.xml
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.exe.manifest
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.application
+I:\Personal\E\Work\Projects\POS\POS\obj\Debug\POS.csproj.CopyComplete
